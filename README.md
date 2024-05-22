@@ -17,11 +17,10 @@ This repository implements a machine learning model for predicting stock prices 
    pip freeze > requirements.txt
    pip install -r requirements.txt
    ```
-
-
-**Further Enhancements**
-
-* **Feature Engineering**
-* **Hyperparameter Optimization**
-* **Ensemble Learning**
-* **Evaluation and Comparison**
+**Prediction Output**
+>>
+   ![image](https://github.com/MihirShah07/stock-price-prediction/assets/92981484/bdc164d3-5afb-4773-87cd-e5a330b2fc1d)
+   #### fig 1.1
+   
+   ![image](https://github.com/MihirShah07/stock-price-prediction/assets/92981484/7b8172a3-7210-44eb-ac5d-37738f0eab18)
+   #### fig 1.2 (prediction for next two months)
